@@ -7,7 +7,7 @@ The following code find the checkers at a Backgammon board.
 
         python main.py <input_path> <output_path>
         
-    where ´<input_path>´ is the input folder (the sample ´.jpg´ figures and the ´.info.json´ should be there) and ´<output_path>´ is the output folder where you'll have the solution figures and the ´.checjers.json´ files for each image.
+    where `<input_path>` is the input folder (the sample `.jpg` figures and the `.info.json` should be there) and `<output_path>` is the output folder where you'll have the solution figures and the `.checjers.json` files for each image.
 
 # Questions
 
